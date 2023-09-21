@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620273710845",
+    "project_id": "drive-demo-app-761c2",
+    "storage_bucket": "drive-demo-app-761c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620273710845:android:ab0a5724426c88922cb094",
+        "android_client_info": {
+          "package_name": "com.example.flutter_google_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620273710845-0l70oidofeoc65hq5adde7le49agl27r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_google_drive",
+            "certificate_hash": "c2ebd56cc087263172bd40838149d3be397a001c"
+          }
+        },
+        {
+          "client_id": "620273710845-hc71ag388s8hcp9cuo45q6al86b6gskk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_XsOkzXBC8c6WI1PNIBOsxujZYuwZYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620273710845-hc71ag388s8hcp9cuo45q6al86b6gskk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
